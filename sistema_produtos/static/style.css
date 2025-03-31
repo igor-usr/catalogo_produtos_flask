@@ -1,0 +1,7 @@
+body {
+    padding-top: 56px; /* Ajuste para evitar que o conteúdo fique atrás da navbar fixa */
+}
+
+.container {
+    margin-top: 20px; /* Adiciona um pouco de espaço abaixo da navbar */
+}
